@@ -1,1 +1,1 @@
-Install-WindowsFeature -Name Web-Server 
+Install-WindowsFeature DNS -IncludeManagementTools -ErrorAction SilentlyContinue
